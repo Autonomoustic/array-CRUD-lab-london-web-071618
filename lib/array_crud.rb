@@ -1,3 +1,6 @@
+cities = ["Copenhagen", "Berlin", "Venice", "Zurich"]
+
+
 def create_an_empty_array
   array = []
 end
