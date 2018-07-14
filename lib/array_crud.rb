@@ -1,4 +1,3 @@
-cities = ["Copenhagen", "Berlin", "Venice", "Zurich"]
 
 
 def create_an_empty_array
@@ -15,6 +14,7 @@ cities.push("arrays!")
 end
 
 def add_element_to_start_of_array(array, element)
+  cities = ["Copenhagen", "Berlin", "Venice", "Zurich"]
 cities.unshift("wow")
 end
 
